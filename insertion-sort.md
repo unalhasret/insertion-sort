@@ -11,12 +11,12 @@
 
 O(n^2)
 
-### Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+### 3) Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 Time complexity: Average case (6 sayı varken 3 adımda sıralandı.)
 
 
-### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+### 4) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Average case kapsamına girer çünkü dizi sıralandıktan sonra 18 sayısı ortadadır.
 
